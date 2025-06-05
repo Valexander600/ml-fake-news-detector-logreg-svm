@@ -19,10 +19,10 @@ This project builds a machine learning model to classify news articles as real o
 ## 📸 Screenshots
 
 ### 🔍 Distribution of Real vs Fake News
-![Alt Text](FakevsRealNewsDistribution.png)
+![Fake vs. Real News Distribution](FakevsRealNewsDistribution.png)
 
 ### 📊 Confusion Matrix
-![Confusion Matrix](ROCCurve.png)
+![ROC Curve](ROCCurve.png)
 
 ### 🧠 Model Accuracy Comparison
 ![Model Accuracy](FakevsRealDatagraph.png)
@@ -42,6 +42,13 @@ jupyter notebook FakeNewsDetector.ipynb
 
 ## 📁 Files
 - `FakeNewsDetector.ipynb`: Colab notebook with code, analysis, and results
+
+## 📦 Installation
+
+Install the required packages using pip:
+
+```bash
+pip install -r requirements.txt
 
 - ## 📝 License
 
