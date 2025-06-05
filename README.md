@@ -25,7 +25,7 @@ This project builds a machine learning model to classify news articles as real o
 ![Confusion Matrix](images/ConfusionMatrix.png)
 
 ### 🧠 Model Accuracy Comparison
-![Model Accuracy](images/modelscreenshot.png)
+![Model Accuracy](ROCCurve.png)
 
 ## 🚀 Future Enhancements
 - Deploying the model with Streamlit for real-time predictions
