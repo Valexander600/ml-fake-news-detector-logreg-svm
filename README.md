@@ -16,6 +16,17 @@ This project builds a machine learning model to classify news articles as real o
 - Logistic Regression and SVM achieved >90% accuracy
 - Confusion matrix and ROC curve visualizations included
 
+## 📸 Screenshots
+
+### 🔍 Distribution of Real vs Fake News
+![Alt Text]( images/FakevsRealNewsDistribution.png)
+
+### 📊 Confusion Matrix
+![Confusion Matrix](images/ConfusionMatrix.png)
+
+### 🧠 Model Accuracy Comparison
+![Model Accuracy](images/modelscreenshot.png)
+
 ## 🚀 Future Enhancements
 - Deploying the model with Streamlit for real-time predictions
 - Using transformer models (like BERT) for deeper understanding
