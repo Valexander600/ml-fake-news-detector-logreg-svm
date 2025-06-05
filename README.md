@@ -19,7 +19,7 @@ This project builds a machine learning model to classify news articles as real o
 ## 📸 Screenshots
 
 ### 🔍 Distribution of Real vs Fake News
-![Alt Text]( images/FakevsRealNewsDistribution.png)
+![Alt Text](images/FakevsRealNewsDistribution.png)
 
 ### 📊 Confusion Matrix
 ![Confusion Matrix](images/ConfusionMatrix.png)
