@@ -1,6 +1,10 @@
 # 📰 Fake News Detection with Machine Learning
+
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
+
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+
+Classifies news articles as real or fake using NLP and classic ML models.
 
 
 This project builds a machine learning model to classify news articles as real or fake using the Fake and Real News Dataset from Kaggle.
@@ -12,6 +16,14 @@ This project builds a machine learning model to classify news articles as real o
 - Visual performance evaluation (ROC Curve, Confusion Matrix)
 - Clean text preprocessing (stopwords, lemmatization)
 - Real-world dataset from Kaggle
+
+  | 🚀 Feature     | Details                                      |
+| -------------- | -------------------------------------------- |
+| Data Source    | Kaggle Fake & Real News                      |
+| Pre-processing | Lower-casing, punctuation & stopword removal |
+| Models         | Logistic Regression, Linear SVM              |
+| Evaluation     | Accuracy > 90 %, Confusion Matrix, ROC Curve |
+
 
 ## 📑 Table of Contents
 - [Features](#-features)
@@ -58,13 +70,15 @@ This project builds a machine learning model to classify news articles as real o
 ## 🚀 Future Enhancements
 - Deploying the model with Streamlit for real-time predictions
 - Using transformer models (like BERT) for deeper understanding
-- ## 🚀 Getting Started
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Valexander600/ml-fake-news-detector-logreg-svm.git
-   cd ml-fake-news-detector-logreg-svm
+## 🚀 Getting Started
+
+1. Clone the repository  
+```bash
+git clone https://github.com/Valexander600/ml-fake-news-detector-logreg-svm.git
+cd ml-fake-news-detector-logreg-svm
 jupyter notebook FakeNewsDetector.ipynb
+
 
 
 
@@ -74,9 +88,9 @@ jupyter notebook FakeNewsDetector.ipynb
 ## 📦 Installation
 
 Install the required packages using pip:
-
-```bash
+pip freeze > requirements.txt
 pip install -r requirements.txt
+
 
 - ## 📝 License
 
