@@ -30,6 +30,20 @@ This project builds a machine learning model to classify news articles as real o
 ## 🚀 Future Enhancements
 - Deploying the model with Streamlit for real-time predictions
 - Using transformer models (like BERT) for deeper understanding
+- ## 🚀 Getting Started
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Valexander600/ml-fake-news-detector-logreg-svm.git
+   cd ml-fake-news-detector-logreg-svm
+jupyter notebook FakeNewsDetector.ipynb
+
+
 
 ## 📁 Files
 - `FakeNewsDetector.ipynb`: Colab notebook with code, analysis, and results
+
+- ## 📝 License
+
+This project is licensed under the MIT License.
+
