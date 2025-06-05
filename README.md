@@ -1,6 +1,27 @@
 # 📰 Fake News Detection with Machine Learning
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+
 
 This project builds a machine learning model to classify news articles as real or fake using the Fake and Real News Dataset from Kaggle.
+
+## 🚀 Features
+
+- Classifies news as **Fake** or **Real**
+- Uses both **Logistic Regression** and **SVM** models
+- Visual performance evaluation (ROC Curve, Confusion Matrix)
+- Clean text preprocessing (stopwords, lemmatization)
+- Real-world dataset from Kaggle
+
+## 📑 Table of Contents
+- [Features](#-features)
+- [Dataset](#-dataset)
+- [Installation](#-installation)
+- [Usage](#-usage)
+- [Visualizations](#-visualizations)
+- [Results](#-results)
+- [Future Work](#-future-work)
+
 
 ## 📂 Dataset
 - Source: [Kaggle - Fake and Real News](https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset)
@@ -15,6 +36,13 @@ This project builds a machine learning model to classify news articles as real o
 ## 📈 Results
 - Logistic Regression and SVM achieved >90% accuracy
 - Confusion matrix and ROC curve visualizations included
+
+## 💼 Future Work
+
+- Deploy the model as a web app using **Streamlit**
+- Integrate live news scraping for real-time predictions
+- Experiment with deep learning models (e.g., LSTM, BERT)
+- Improve model performance with advanced NLP techniques
 
 ## 📸 Screenshots
 
